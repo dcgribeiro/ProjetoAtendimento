@@ -1,0 +1,29 @@
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\bin\Debug\projAtendimento.exe.config
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\bin\Debug\projAtendimento.exe
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\bin\Debug\projAtendimento.pdb
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\ProjetoAtendimento.csprojAssemblyReference.cache
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\projAtendimento.Properties.Resources.resources
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\ProjetoAtendimento.Views.Atendimento.resources
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\ProjetoAtendimento.csproj.GenerateResource.cache
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\ProjetoAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\projAtendimento.exe
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\projAtendimento.pdb
+I:\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\bin\Debug\projAtendimento.exe.config
+I:\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\projAtendimento.exe
+I:\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\projAtendimento.pdb
+I:\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\bin\Debug\projAtendimento.exe
+I:\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\bin\Debug\projAtendimento.pdb
+I:\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\ProjetoAtendimento.csprojResolveAssemblyReference.cache
+I:\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\projAtendimento.Properties.Resources.resources
+I:\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\ProjetoAtendimento.Views.Atendimento.resources
+I:\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\ProjetoAtendimento.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\bin\Debug\projAtendimento.exe.config
+C:\Users\aluno\Desktop\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\bin\Debug\projAtendimento.exe
+C:\Users\aluno\Desktop\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\bin\Debug\projAtendimento.pdb
+C:\Users\aluno\Desktop\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\ProjetoAtendimento.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\projAtendimento.Properties.Resources.resources
+C:\Users\aluno\Desktop\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\ProjetoAtendimento.Views.Atendimento.resources
+C:\Users\aluno\Desktop\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\ProjetoAtendimento.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\ProjetoAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\projAtendimento.exe
+C:\Users\aluno\Desktop\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\projAtendimento.pdb
